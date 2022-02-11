@@ -1,1 +1,1 @@
-terraform.tfvars
+**/modules/notification_channel/email/terraform.tfvars
