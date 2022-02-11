@@ -1,4 +1,3 @@
-*.tfvars
 /modules/notification_channels/email/test
 
-
+/modules/notification_channels/email/terraform.tfvars
