@@ -2,4 +2,4 @@
 
 /modules/notification_channels/email/terraform.tfvars
 
-*.tfvars
+terraform.tfvars
