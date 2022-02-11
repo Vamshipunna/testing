@@ -1,2 +1,0 @@
-*.tfvars
-/modules/notification_channels/email/test
